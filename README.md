@@ -5,7 +5,7 @@
 3. [Prerequisite](#Prerequisite)
 4. [Installation](#Installation)
 5. [Runtime Environment](#Runtime-Environment)
-6. [Visit the website here](#Visit-the-website-here:)
+6. [Visit the website here:](#Visit-the-website-here:)
 
 
 ## Instructions
