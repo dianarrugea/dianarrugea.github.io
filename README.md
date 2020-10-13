@@ -4,8 +4,8 @@
 
 ## Technologies used:
 * HTML
-* CSS Flexbox
-* CSS Grid
+* CSS 
+* JavaScript
 
 ## Basic Requirements
 
